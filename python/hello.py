@@ -11,4 +11,3 @@ users=cursor.fetchall()
 connection.close()
 
 print(users)
-

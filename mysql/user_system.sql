@@ -11,3 +11,4 @@ CREATE TABLE tbUser(
 
 INSERT INTO tbUser(uName, uMail, uNuser, uPw) 
 VALUES("Carlinhos", "kkseck@gmail.com", "kk", "pw1234");
+
