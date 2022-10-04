@@ -7,6 +7,7 @@ __pycache__/
 key.k
 *.k
 key.*
+key
 
 # C extensions
 *.so
